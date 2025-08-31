@@ -1,6 +1,6 @@
 # 👋 Hi , I'm Harshvardhan Singh
 
-I’m an MCA student at K.R. Mangalam University with a strong foundation in C++, Java, Python, and Web Development. I enjoy creating efficient applications and learning new technologies that push my problem-solving skills.
+I’m an MCA student with a strong foundation in C++, Java, Python, and Web Development. I enjoy creating efficient applications and learning new technologies that push my problem-solving skills.
 
 Currently improving my expertise in Full-Stack Development and exploring how AI and Cloud can be applied in practical projects.
 
