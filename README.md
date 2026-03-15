@@ -9,8 +9,8 @@ Currently improving my expertise in Full-Stack Development and exploring how AI 
 
 **Programming Languages:** Python, Java, C, C++  
 **Frontend:** HTML, CSS, JavaScript, React, Responsive Web Design  
-**Backend:**  Node.js, MongoDB, API Integration  
-**Tools & Technologies:** Git, GitHub, VS Code, IntelliJ IDEA  
+**Backend:**  Node.js, MongoDB, SQL, API Integration  
+**Tools & Technologies:** Git, GitHub, VS Code, IntelliJ IDEA, Figma  
 **Other:** Problem Solving, Cloud Computing Basics, Quick Learning & Adaptability  
 
 
